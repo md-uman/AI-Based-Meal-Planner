@@ -13,8 +13,3 @@ An intelligent meal planning application powered by AI that provides personalize
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Next.js 14, React, TypeScript
-- **Styling:** Tailwind CSS, shadcn/ui
-- **AI:** Vercel AI SDK with OpenAI
-- **Authentication:** Custom auth with local storage
-
