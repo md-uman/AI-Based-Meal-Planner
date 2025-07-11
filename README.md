@@ -17,11 +17,4 @@ An intelligent meal planning application powered by AI that provides personalize
 - **Styling:** Tailwind CSS, shadcn/ui
 - **AI:** Vercel AI SDK with OpenAI
 - **Authentication:** Custom auth with local storage
-- **Deployment:** Vercel
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-meal-planner.git
-cd ai-meal-planner
